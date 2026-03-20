@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kj615
-- 👀 I’m interested in ... software development, data engineer
-- 🌱 I’m currently learning ... front end development via The Odin Project
+- 👋 Hi, I’m Kelly!
+- 👀 I’m interested in ... software development, data analytics, and data engineering
+- 👩‍💻 I'm currently working on ... a hobby project creating a site for line dance "cheat" sheets, which provides simplified steps to line dances I've learned making this is a quick reference sheet when praciting or out dancing. 
 
 
 
